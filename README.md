@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Oluwaseun Onigbinde 👋
 
-<!--
-**OluwaseunOnigbinde/OluwaseunOnigbinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Power BI | Excel
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights that support better business decisions.
+
+### 🛠️ Technical Skills
+- Microsoft Excel
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualisation
+- Business Reporting
+
+### 📊 Featured Project
+
+**FMCG Sales Performance Analysis**
+
+Analysing sales performance, revenue trends, profitability and business insights using Power BI.
+
+[Explore My FMCG Project](https://github.com/OluwaseunOnigbinde/data-analyst-portfolio)
+
+### 🎯 Career Goal
+
+To grow as a Data Analyst and use data to solve business problems and support informed decision-making.
+
+### 📍 Location
+Ibadan, Nigeria
